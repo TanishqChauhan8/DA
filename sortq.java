@@ -1,0 +1,1 @@
+<--sort an array consisting elements 0 1 and 2 in a single loop without coounting the frequency of any element-->
